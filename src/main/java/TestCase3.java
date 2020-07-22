@@ -33,6 +33,19 @@ public class TestCase3 extends DriverManager{
         Verify.verify(toastMessage.equalsIgnoreCase("Please enter your name"));
 
     }
+    @Test
+    public void VerifyingTostMessage_New(){
+        getDriver().findElementByXPath("//android.widget.Spinner[@resource-id='com.androidsample.generalstore:id/spinnerCountry']").click();
+        getDriver().findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"Canada\"));").click();
+        //   driver.findElement(MobileBy.AndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().textMatches(\"Canada\").instance(0))"));
+        // getDriver().findElementByXPath("//android.widget.EditText[@resource-id='com.androidsample.generalstore:id/nameField']").sendKeys("Lady Diana");
+        getDriver().findElementByXPath("//android.widget.RadioButton[@resource-id='com.androidsample.generalstore:id/radioFemale']").click();
+        getDriver().findElementByXPath("//android.widget.Button[@resource-id='com.androidsample.generalstore:id/btnLetsShop']").click();
+        String toastMessage=getDriver().findElement(By.xpath("//android.widget.Toast[1]")).getAttribute("name");
+        System.out.println("Toast Message: " + toastMessage);
+        Verify.verify(toastMessage.equalsIgnoreCase("Please enter your name"));
+
+    }
 
 
 }
