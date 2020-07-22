@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a401b3da-0f21-4404-8965-0ca7a33cb8e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhKGl43zm4UB9Hcjg6lTthO5RR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AppiumFramework" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tools\appium\workspace\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase5.switchToWebView">
+    <configuration name="TestCase2.gotoCricbuzz" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase2" />
+      <option name="METHOD_NAME" value="gotoCricbuzz" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase3.VerifyingTostMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase3" />
+      <option name="METHOD_NAME" value="VerifyingTostMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase4.gotoGeneralStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase4" />
+      <option name="METHOD_NAME" value="gotoGeneralStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase5.switchToWebView" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase5" />
+      <option name="METHOD_NAME" value="switchToWebView" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase5.switchToWebView" />
+        <item itemvalue="TestNG.TestCase4.gotoGeneralStore" />
+        <item itemvalue="TestNG.TestCase3" />
+        <item itemvalue="TestNG.TestCase3.VerifyingTostMessage" />
+        <item itemvalue="TestNG.TestCase2.gotoCricbuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a401b3da-0f21-4404-8965-0ca7a33cb8e0" name="Default Changelist" comment="" />
+      <created>1592871790339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592871790339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593725009340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1593725009340" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1594169537358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594169537358" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1593974716247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593974716247" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1593974716246">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593974716246" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1593974716246">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593974716246" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1593974716246">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593974716246" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1593974716247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593974716247" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1593974716247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1593974716247" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1593974716247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1593974716247" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1593974716247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1593974716247" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1593224640817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1593224640817" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1593789040623">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593789040623" />
+    <state x="305" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593114130175">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="305" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1593114130175" />
+    <state x="91" y="36" key="new project wizard" timestamp="1593974714212">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1593974714212" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1593550285974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1593550285974" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593884107647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593884107647" />
+  </component>
+</project>
