@@ -31,6 +31,9 @@ public class TestCase2 extends DriverManager{
 
     @Test
     public void gotoFacebook(){
+		System.out.println("Print line 1");
+		System.out.println("Print line 2");
+		System.out.println("Print line 3");
         getDriver().get("https://www.facebook.com/");
         getDriver().findElementByXPath("//input[@name='email']").sendKeys("tehmina90@hotmail.com");
         //getDriver().getKeyboard().sendKeys("tehmina90@hotmail.com");

@@ -26,6 +26,9 @@ public class TestCase1 extends DriverManager{
         getDriver().findElementByXPath("//android.widget.TextView[@text='WiFi settings']").click();
         getDriver().findElementByClassName("android.widget.EditText").sendKeys("Hello");
         getDriver().findElementByXPath("//android.widget.Button[@text='OK']").click();
+		System.out.println("Print line 4");
+		System.out.println("Print line 5");
+		System.out.println("Print line 6");
     }
 
 }
