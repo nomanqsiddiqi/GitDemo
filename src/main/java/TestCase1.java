@@ -40,4 +40,10 @@ public class TestCase1 extends DriverManager{
         getDriver().findElementByXPath("//android.widget.Button[@text='OK']").click();
     }
 
+    @Test
+    public void doLogin(){
+        System.out.println("Test case for login");
+    }
+
+
 }
