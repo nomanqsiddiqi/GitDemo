@@ -17,6 +17,9 @@ public class TestCase1 extends DriverManager{
 
     @Test
     public void gotoPreference() {
+		System.out.println("Print line 1");
+		System.out.println("Print line 2");
+		System.out.println("Print line 3");
         getDriver().findElementByXPath("(//android.widget.TextView)[10]").click();
         getDriver().findElementByXPath("//android.widget.TextView[@content-desc='3. Preference dependencies']").click();
         getDriver().findElementByXPath("//android.widget.CheckBox[@resource-id='android:id/checkbox']").click();
